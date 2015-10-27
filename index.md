@@ -1,8 +1,10 @@
 ---
 title: Hello Metiix
+published: true
 ---
 
-Hello Metiix
+
+Hi Metiix
 
 ## Header 2
 

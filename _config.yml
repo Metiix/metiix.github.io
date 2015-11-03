@@ -40,6 +40,11 @@ prose:
         field:
           element: "text"
           value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
     _posts/static:
       - name: "layout"
         field:

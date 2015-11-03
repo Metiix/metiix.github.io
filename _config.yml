@@ -10,7 +10,6 @@ title:               Metiix Blog
 tagline:             Managed Backup Services
 siteurl:                 http://blog.metiix.com
 paginate:	5
-paginate_path: "/page:num"
 baseurl:             ""
 
 # Assets

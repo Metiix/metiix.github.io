@@ -1,10 +1,12 @@
 ---
 layout: post
-categories: null
-title: ""
+categories: 
+  - "null"
+title: New Entry
 image: ""
-published: false
+published: true
 ---
+
 
 ## A New Post
 

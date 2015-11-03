@@ -50,11 +50,6 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           alterable: true
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: ""
     _posts/static:
       - name: "layout"
         field:

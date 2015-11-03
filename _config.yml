@@ -4,6 +4,7 @@ gems: [jekyll-paginate]
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
+markdown: rdiscount
 
 # Setup
 title:               Metiix Blog
@@ -32,6 +33,10 @@ prose:
     - /_includes
   metadata:
     _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
@@ -45,4 +50,8 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          alterable: true
+          alterable: true- name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""

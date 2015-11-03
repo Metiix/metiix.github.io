@@ -1,0 +1,11 @@
+
+{% if page.splash %}
+  {% if page.splash contains 'http' %}
+    {% capture url %}{{page.splash}}{% endcapture %}
+  {% else %}
+    {% capture url %}{{site.baseurl}}{{page.splash}}/{% endcapture %}
+  {% endif %}
+    <div class="wrapper">
+      <img src='{{url}}' alt='' />
+    </div>
+{% endif %}

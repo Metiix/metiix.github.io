@@ -1,7 +1,9 @@
 ---
 layout: post
 published: true
+title: Cloud Backup
 ---
+
 
 
 Business need efficient data protection that makes recovery secure, fast and reliable in case of an unforeseen catastrophe.Backing up your data is something everyone should do, but you should also be saving your data off-site in the case of a disaster. Having a cloud backup and disaster recovery solution ensures business can quickly get back to work after a disaster to avoid losing money, time and more importantly data. 

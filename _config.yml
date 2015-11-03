@@ -1,0 +1,47 @@
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+highlighter: pygments
+permalink: /:year/:month/:day/:title/
+gems:
+  - jemoji
+
+# Site settings
+title: "Metiix Blog"
+description: > # this means to ignore newlines until "email:"
+  Manged Backup Services
+email: "sales@metiix.com"
+url: "http://blog.metiix.com" # the base hostname & protocol for your site
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://blog.metiix.com/'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Add Categories"
+          alterable: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Add Image to Post"
+          placeholder: "Image path (relative to /assets/post-images/)"
+          alterable: true

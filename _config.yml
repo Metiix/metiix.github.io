@@ -1,21 +1,30 @@
-# Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough"]
-highlighter: pygments
-permalink: /:year/:month/:day/:title/
-gems:
-  - jemoji
 
-# Site settings
-title: "Metiix Blog"
-description: > # this means to ignore newlines until "email:"
-  Manged Backup Services
-email: "sales@metiix.com"
-url: "http://blog.metiix.com" # the base hostname & protocol for your site
+gems: [jekyll-paginate]
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Metiix Blog
+tagline:             Managed Backup Services
+url:                 http://blog.metiix.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://blog.metiix.com/'
+  relativeLinks: 'http://blog.metiix.com/links.jsonp'
+  media: 'media'
   ignore:
     - index.md
     - _config.yml
@@ -27,21 +36,3 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "categories"
-        field:
-          element: "multiselect"
-          label: "Add Categories"
-          placeholder: "Add Categories"
-          alterable: true
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Add Image to Post"
-          placeholder: "Image path (relative to /assets/post-images/)"
-          alterable: true

@@ -3,7 +3,9 @@ layout: post
 published: false
 title: Cloud Backup
 tags: 
-  - "null"
+  - metiix
+  - cloud
+  - backup
 ---
 
 Businesses of all sizes need efficient data protection that makes recovery secure, fast, and reliable in case of an unforeseen catastrophe.  Backing up your data is something every company should do, but you should also save your data off-site in the case of a disaster.  Having a cloud backup and disaster recovery solution ensures business can quickly get back to work after a disaster to avoid losing money, time, and perhaps more importantly data.

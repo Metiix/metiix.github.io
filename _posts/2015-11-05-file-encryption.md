@@ -2,9 +2,10 @@
 layout: post
 tags: 
   - "null"
-published: false
+published: true
 title: File Encryption
 ---
+
 
 
 Encryption has been used for thousands of years with a very complex history.  Cryptography is derived from the Greek word kryptos, which means “secret”.  One of the earliest known uses of encryption occurred around 2000 BC where the Egyptians carved hieroglyphs or complex pictograms into monuments.  

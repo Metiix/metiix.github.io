@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Cloud Backup
 tags: 
   - metiix
@@ -8,6 +8,7 @@ tags:
   - backup
 splash: ""
 ---
+
 
 
 Businesses of all sizes need efficient data protection that makes recovery secure, fast, and reliable in case of an unforeseen event.  While it is important for every company to back up their data, protecting it off-site can make all of the difference in the case of a disaster.  A durable cloud backup and disaster recovery solution will help ensure that a business can quickly get back to work after a disaster to avoid losing time, data, and perhaps more importantly money.
@@ -20,4 +21,4 @@ Third-party cloud backup is becoming more popular with small businesses and home
 
 With real-time cloud backup services you are able to restore moments before the disaster happened and your data is immediately sent off-premise in only a matter of minutes. For most business owners their disaster recovery plan is to have their data off-site, but to also be able to restore and run entire services and applications off-site as well.
 
-Many small business owners don’t realize how important it is to protect their data until disaster strikes.  Having a solid disaster recovery plan in place is crucial while considering cloud backup services.  
+Many small business owners don’t realize how important it is to protect their data until disaster strikes.  Having a solid disaster recovery plan in place is crucial while considering cloud backup services.

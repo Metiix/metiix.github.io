@@ -6,10 +6,7 @@ published: false
 title: Ad Blocking
 ---
 
-
-## A New Post
-
-Ad blocking has been around on the desktop browsers for years.  Beginning in 2015 this technology has went mobile.
+Ad blocking has been around on the desktop browsers for several years now.  Beginning in 2015 this technology has went mobile.
 
 Recently Google removed their Samsung ad blocking app from Play store.  This app had racked up more than 50,000 downloads and was one of the top downloads of the play store.
 

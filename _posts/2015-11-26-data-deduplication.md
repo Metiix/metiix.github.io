@@ -3,8 +3,9 @@ layout: post
 tags: 
   - "null"
 published: true
-title: data deduplication
+title: Data Deduplication
 ---
+
 
 
 Data redundancy can occur by accident or done purposely for backup and recovery plans.  Repetition of data can cause distortion and corruption of files.  Having redundant data makes your backup process more pricey and tedious, while operating less efficient.

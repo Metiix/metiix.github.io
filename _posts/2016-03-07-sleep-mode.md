@@ -2,9 +2,10 @@
 layout: post
 tags: 
   - "null"
-published: false
+published: true
 title: Sleep Mode
 ---
+
 
 
 Sleep is a low energy power saving mode that is similar to pausing a movie or television show.  This mode can often be referred to as “Standby” or as used in Linux “Suspend” mode. This mode significantly saves electrical consumption compared to leaving your system on and you are able to resume right where you started pre-sleep mode without having to start over or reboot your computer.  When in Sleep, power is cut from components apart from the RAM which include the hard drive, display and ports.  Ram uses the little power it needs to enable and maintain data. 

@@ -2,7 +2,7 @@
 layout: post
 tags: 
   - "null"
-published: false
+published: true
 title: Low Disk Space Warning
 ---
 

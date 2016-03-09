@@ -2,9 +2,10 @@
 layout: post
 tags: 
   - "null"
-published: false
+published: true
 title: Hibernation
 ---
+
 
 Some computers offer an option that combines sleep mode and powering down your computer called “Hibernate.”  Hibernating means your computer is off and not just sleeping.
 

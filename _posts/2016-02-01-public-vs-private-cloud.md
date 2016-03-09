@@ -3,7 +3,7 @@ layout: post
 tags: 
   - "null"
 published: true
-title: public vs private cloud
+title: Public vs Private Cloud
 ---
 
 

@@ -12,4 +12,7 @@ Not only does Hybrid sleep allow you to wake the computer rapidly, but also prot
  
 Hybrid sleep is designed primarily for desktop computers.  Hybrid Sleep is on by default for desktop systems but off by default on most laptops.  You are able to override the default for your laptop easily if you choose.  Using Hybrid sleep on your laptop may be unnecessary since it runs on a battery and not power, so you will not have to worry about a power outage.
  
-In order to enable Hybrid sleep you can do so by going to Control Panel>Power options>Edit plan Settings>Change Advanced Power Settings>Sleep>Allow Hybrid Sleep.
+In order to enable Hybrid sleep you can do so by going to:
+Control Panel > Power options > Edit Plan Settings > Change Advanced Power Settings > Sleep > Allow Hybrid Sleep.
+
+contact [Metiix](http://www.metiix.com) for help with this and many other IT Service related issues.

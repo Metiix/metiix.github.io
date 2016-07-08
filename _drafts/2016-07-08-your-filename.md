@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: Disaster Recovery
 ---
 Disaster recovery involves security planning that makes the recovery of important technology infrastructure and systems possible after a disaster. These disasters can be natural or man made disasters. Some possible man made disasters are those such as; infrastructure failure, IT bugs, cyberattacks, and failed implementations. 
 

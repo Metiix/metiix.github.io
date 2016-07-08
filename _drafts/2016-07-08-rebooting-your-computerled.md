@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Rebooting your computerled
+title: Rebooting your computer
 ---
 Should you be shutting down or rebooting your computer systems?  Obviously keeping your computer running and powered 24/7 is the more convenient option because your machine is always on and ready to go. 
 You may think shutting off or restarting may be harmful to your system or cause you to lose data, but that is incorrect.  Restarting and shutting down your PC is actually beneficial.
